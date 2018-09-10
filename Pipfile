@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.douban.com/simple"
+verify_ssl = true
+name = "pypi_douban"
+
+[packages]
+wxpython = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
